@@ -1,2 +1,2 @@
 # cpsms
-A simple Python wrapper for the SMS gateway provided by CPSMS &lt;https://www.cpsms.dk/>.
+A simple Python wrapper for the SMS gateway provided by CPSMS https://www.cpsms.dk/.
